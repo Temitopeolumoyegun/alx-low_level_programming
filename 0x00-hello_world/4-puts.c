@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry
+ * main - Printing
  *
  * Return : By defult returns zero if no error (success)
  */
