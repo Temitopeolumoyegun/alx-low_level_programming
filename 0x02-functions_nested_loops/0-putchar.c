@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - Prints Holberton as a message
- *
+ * main - Print _putchar
+ * is written by Temitopeolumoyegun
  * Return: Always 0 (Success)
  */
 int main(void)
